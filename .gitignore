@@ -1,0 +1,11 @@
+# Ignorar diretório node_modules
+node_modules/
+
+# Ignorar arquivos .npm-debug.log gerados pelo npm
+*.npm-debug.log
+
+# Ignorar arquivos yarn.lock gerados pelo Yarn
+yarn.lock
+
+# Ignorar arquivos .env usados para configuração local
+.env
